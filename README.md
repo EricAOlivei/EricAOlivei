@@ -1,6 +1,6 @@
 ### Oiee amigos eu sou o Eric
 
-- 💼 Sou Dev treeni de C# (.Net & Agular) <-- A estudar
+- 💼 Sou treeni Dev de C# (.Net & Agular) <-- A estudar
 - 📝 Estou cursando Sistemas de informação no Unasp-Ht
 - 🐒 Monkey Supremacy
 
