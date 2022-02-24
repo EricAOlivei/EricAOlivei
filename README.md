@@ -2,7 +2,7 @@
 
 - 💼 Sou Dev treeni de C# (.Net & Agular) <-- A estudar
 - 📝 Estou cursando Sistemas de informação no Unasp-Ht
-- 🦆 Duck Supremacy
+- 🐒 Monkey Supremacy
 
 <div align="center">
   <a href="https://github.com/EricAOlivei">
