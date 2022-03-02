@@ -2,7 +2,6 @@
 
 - 💼 Sou treeni Dev de C# (.Net & Agular) <-- A estudar
 - 📝 Estou cursando Sistemas de informação no Unasp-Ht
-- 🐒 Monkey Supremacy
 
 <h2>
   🚀 Skills
