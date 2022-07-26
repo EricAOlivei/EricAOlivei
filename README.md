@@ -1,6 +1,6 @@
 ### Oiee amigos eu sou o Eric
 
-- 💼 Sou treeni Dev de C# (.Net & Agular) <-- A estudar
+- 💼 treeni Dev de C# (.Net & Agular) 
 - 📝 Estou cursando Sistemas de informação no Unasp-Ht
 
 <h2>
