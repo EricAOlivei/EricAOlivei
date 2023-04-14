@@ -1,6 +1,6 @@
 ### Oiee amigos eu sou o Eric
 
-- 💼 treeni Dev de C# (.Net & Agular) 
+- 💼 Dev Junior .Net & Angular 
 - 📝 Estou cursando Sistemas de informação no Unasp-Ht
 
 <h2>
